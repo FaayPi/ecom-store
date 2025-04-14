@@ -13,4 +13,4 @@ REDIS_CONFIG = {
 }
 
 # App
-TABS = ["Home", "Products", "Recommendations", "Cart", "Checkout", "Order History"]
+TABS = ["Home", "Products", "Cart", "Checkout", "Order History", "Best Sellers"]
